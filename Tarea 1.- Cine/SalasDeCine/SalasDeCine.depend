@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1687279047 source:d:\carlos\documents\programacion orientada a objetos en c++\tarea 1.- cine\salasdecine\main.cpp
+	<iostream>
+	"CSala.h"
+
+1687280689 d:\carlos\documents\programacion orientada a objetos en c++\tarea 1.- cine\salasdecine\csala.h
+	<vector>
+	"CAsiento.h"
+	"CPelicula.h"
+
+1687279906 d:\carlos\documents\programacion orientada a objetos en c++\tarea 1.- cine\salasdecine\casiento.h
+
+1687279881 d:\carlos\documents\programacion orientada a objetos en c++\tarea 1.- cine\salasdecine\cpelicula.h
+	<string>
+
